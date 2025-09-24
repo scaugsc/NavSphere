@@ -908,6 +908,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1758711374125",
+      "title": "News",
+      "icon": "Folder",
+      "description": "新闻资讯",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
