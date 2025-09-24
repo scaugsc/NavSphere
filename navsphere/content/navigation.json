@@ -915,7 +915,16 @@
       "icon": "Folder",
       "description": "新闻资讯",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1758711471913_qahh5a8x2",
+          "title": "华尔街见闻",
+          "href": "https://wallstreetcn.com/live/global",
+          "description": "",
+          "icon": "/assets/favicon_1758711454346.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
