@@ -935,6 +935,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1768659607376",
+      "title": "投资",
+      "icon": "Folder",
+      "description": "投资相关网址",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
