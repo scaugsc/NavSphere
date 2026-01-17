@@ -120,12 +120,12 @@
               "enabled": true
             },
             {
-              "id": "item-1768667877499",
-              "enabled": true,
-              "title": "纳米AI",
-              "href": "https://bot.n.cn/",
-              "description": "纳米AI，首创多智能体蜂群，一句话生成专家级视频、报告、PPT。纳米AI，集成MCP万能工具箱，打破信息围墙，让搜索更全、更广、更深、更专业。纳米AI，集成DeepSeek，智脑，通义千问等十六家大模型，支持深度推理、个人知识库管理等功能。",
-              "icon": "/assets/favicon_1768667868171.png"
+              "id": "site_1768668305537_wa551yhg2",
+              "title": "AnuNeko",
+              "href": "https://anuneko.com/#/chat",
+              "description": "",
+              "icon": "/assets/favicon_1768668296087.ico",
+              "enabled": true
             }
           ]
         },
