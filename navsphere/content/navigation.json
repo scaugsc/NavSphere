@@ -892,6 +892,14 @@
           "description": "经济类资讯",
           "icon": "/assets/favicon_1758711454346.png",
           "enabled": true
+        },
+        {
+          "id": "site_1768666670791_ro6gd5bbh",
+          "title": "Hacker News",
+          "href": "https://news.ycombinator.com/newest",
+          "description": "",
+          "icon": "/assets/favicon_1768666661481.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
