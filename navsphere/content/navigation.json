@@ -900,6 +900,14 @@
           "description": "",
           "icon": "/assets/favicon_1768666661481.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1768666922601_aj0b67z64",
+          "title": "Kagi News",
+          "href": "https://news.kagi.com/world/latest",
+          "description": "World: Update: Trump floats tariffs as Congress reassures Denmark • Iran protests subside after crackdown as execution fears rise • Trump names seven-member Gaza ‘Board of Peace’",
+          "icon": "/assets/favicon_1768666918402.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
