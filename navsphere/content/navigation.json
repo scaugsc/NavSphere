@@ -619,6 +619,14 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.png",
               "enabled": true
+            },
+            {
+              "id": "site_1768659809856_c9aqcb737",
+              "title": "网页工具 - NewKit",
+              "href": "https://www.newkit.site/tools/",
+              "description": "浏览所有在线工具，包括开发者工具、文档工具、文本工具、图像工具、数据转换和加密工具等",
+              "icon": "/assets/favicon_1768659793923.svg",
+              "enabled": true
             }
           ],
           "enabled": true
