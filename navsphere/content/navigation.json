@@ -928,6 +928,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "4c05a01c-3c94-4f02-a8a4-cf00c4a6285d",
+          "title": "影音",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
