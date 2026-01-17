@@ -579,6 +579,14 @@
               "description": "浏览所有在线工具，包括开发者工具、文档工具、文本工具、图像工具、数据转换和加密工具等",
               "icon": "/assets/favicon_1768659793923.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1768667174749_vlltpbwbe",
+              "title": "免费软件集 freemediaheckyeah",
+              "href": "https://fmhy.net/",
+              "description": "The largest collection of free stuff on the internet!",
+              "icon": "/assets/favicon_1768667124353.png",
+              "enabled": true
             }
           ],
           "enabled": true
