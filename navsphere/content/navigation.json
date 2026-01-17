@@ -927,7 +927,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1768666897017_x254y1qg3",
+              "title": "微信读书",
+              "href": "https://weread.qq.com/",
+              "description": "访问 weread.qq.com",
+              "icon": "/assets/favicon_1768666878775.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "4c05a01c-3c94-4f02-a8a4-cf00c4a6285d",
