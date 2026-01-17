@@ -952,7 +952,16 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1768667022134_5qxniun2b",
+              "title": "Radio Garden",
+              "href": "https://radio.garden/listen/fox-news-radio/JBY4BMqo",
+              "description": "Listen to Fox News Radio from New York NY live on Radio Garden",
+              "icon": "/assets/favicon_1768667006201.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
