@@ -936,7 +936,16 @@
           "icon": "/assets/favicon_1768707570885.png"
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "51580ed0-2c13-4e67-a765-5e8653625e6d",
+          "title": "套利",
+          "icon": "Box",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1768666814718",
