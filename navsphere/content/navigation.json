@@ -892,6 +892,14 @@
           "description": "Zeli提供了Hacker News和HuggingFace每日AI论文的中文版，实时翻译并生成摘要，旨在帮你快速挑选感兴趣的文章来读。",
           "icon": "/assets/favicon_1768667814645.ico",
           "enabled": true
+        },
+        {
+          "id": "item-1768707912433",
+          "enabled": true,
+          "title": "Folo",
+          "href": "https://app.folo.is/timeline/articles/all/pending",
+          "description": "Folo organizes content into one timeline, keeping you updated on what matters, noise-free. AI reader with translation, summary, and dynamic content support. Available on iOS, Android, macOS, Windows, and Linux.",
+          "icon": "/assets/favicon_1768707899358.ico"
         }
       ],
       "subCategories": []
