@@ -945,6 +945,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "56c3857a-0e0a-4c5a-b498-bf52ac8da139",
+          "title": "自选股",
+          "icon": "Heart",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
