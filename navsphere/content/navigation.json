@@ -912,14 +912,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "item-1768707522676",
-          "enabled": true,
-          "title": "自选股—东财",
-          "href": "https://quote.eastmoney.com/zixuan/lite.html",
-          "description": "东方财富网简版自选股，为您提供全市场自选股票行情 。支持添加沪深A股、B股、港股、美股、指数、板块、期货、英股、基金、外汇等各类品种，是您炒股盯盘的必备神器",
-          "icon": "/assets/favicon_1768707506593.png"
-        },
-        {
           "id": "item-1768707578032",
           "enabled": true,
           "title": "投资账本",
@@ -952,7 +944,16 @@
           "icon": "Heart",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "item-1768707522676",
+              "title": "自选股—东财",
+              "href": "https://quote.eastmoney.com/zixuan/lite.html",
+              "description": "东方财富网简版自选股，为您提供全市场自选股票行情 。支持添加沪深A股、B股、港股、美股、指数、板块、期货、英股、基金、外汇等各类品种，是您炒股盯盘的必备神器",
+              "icon": "/assets/favicon_1768707506593.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
