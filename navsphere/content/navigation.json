@@ -926,6 +926,14 @@
           "href": "https://docs.qq.com/sheet/DY2REQ2hVY0VBclJu?tab=hx70r7&fv=%7B2E0C4D3B-A21C-46DE-B299-539C2CB852E4%7D",
           "description": "腾讯文档-空白页",
           "icon": "/assets/favicon_1768707535701.png"
+        },
+        {
+          "id": "item-1768707578032",
+          "enabled": true,
+          "title": "投资账本",
+          "href": "https://tzzb.10jqka.com.cn/pc/index.html#/myAccount/a/2MuI4YC",
+          "description": "访问 tzzb.10jqka.com.cn",
+          "icon": "/assets/favicon_1768707570885.png"
         }
       ],
       "subCategories": []
