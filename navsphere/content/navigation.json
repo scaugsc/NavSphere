@@ -109,6 +109,58 @@
       "subCategories": []
     },
     {
+      "id": "1768659607376",
+      "title": "投资",
+      "icon": "Folder",
+      "description": "投资相关网址",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "51580ed0-2c13-4e67-a765-5e8653625e6d",
+          "title": "套利",
+          "icon": "Box",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "item-1768707554328",
+              "title": "套利表",
+              "href": "https://docs.qq.com/sheet/DY2REQ2hVY0VBclJu?tab=hx70r7&fv=%7B2E0C4D3B-A21C-46DE-B299-539C2CB852E4%7D",
+              "description": "腾讯文档-空白页",
+              "icon": "/assets/favicon_1768707535701.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "56c3857a-0e0a-4c5a-b498-bf52ac8da139",
+          "title": "自选股",
+          "icon": "Heart",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "item-1768707522676",
+              "title": "自选股—东财",
+              "href": "https://quote.eastmoney.com/zixuan/lite.html",
+              "description": "东方财富网简版自选股，为您提供全市场自选股票行情 。支持添加沪深A股、B股、港股、美股、指数、板块、期货、英股、基金、外汇等各类品种，是您炒股盯盘的必备神器",
+              "icon": "/assets/favicon_1768707506593.png",
+              "enabled": true
+            },
+            {
+              "id": "item-1768707578032",
+              "title": "投资账本",
+              "href": "https://tzzb.10jqka.com.cn/pc/index.html#/myAccount/a/2MuI4YC",
+              "description": "访问 tzzb.10jqka.com.cn",
+              "icon": "/assets/favicon_1768707570885.png",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "9",
       "title": "AI工具",
       "icon": "Brain",
@@ -950,58 +1002,6 @@
               "href": "https://unsplash.com/",
               "description": "免费高清图片",
               "icon": "/assets/images/logos/unsplash.png",
-              "enabled": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1768659607376",
-      "title": "投资",
-      "icon": "Folder",
-      "description": "投资相关网址",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "51580ed0-2c13-4e67-a765-5e8653625e6d",
-          "title": "套利",
-          "icon": "Box",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "item-1768707554328",
-              "title": "套利表",
-              "href": "https://docs.qq.com/sheet/DY2REQ2hVY0VBclJu?tab=hx70r7&fv=%7B2E0C4D3B-A21C-46DE-B299-539C2CB852E4%7D",
-              "description": "腾讯文档-空白页",
-              "icon": "/assets/favicon_1768707535701.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "56c3857a-0e0a-4c5a-b498-bf52ac8da139",
-          "title": "自选股",
-          "icon": "Heart",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "item-1768707522676",
-              "title": "自选股—东财",
-              "href": "https://quote.eastmoney.com/zixuan/lite.html",
-              "description": "东方财富网简版自选股，为您提供全市场自选股票行情 。支持添加沪深A股、B股、港股、美股、指数、板块、期货、英股、基金、外汇等各类品种，是您炒股盯盘的必备神器",
-              "icon": "/assets/favicon_1768707506593.png",
-              "enabled": true
-            },
-            {
-              "id": "item-1768707578032",
-              "title": "投资账本",
-              "href": "https://tzzb.10jqka.com.cn/pc/index.html#/myAccount/a/2MuI4YC",
-              "description": "访问 tzzb.10jqka.com.cn",
-              "icon": "/assets/favicon_1768707570885.png",
               "enabled": true
             }
           ]
