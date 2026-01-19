@@ -59,6 +59,56 @@
       "enabled": true
     },
     {
+      "id": "1758711374125",
+      "title": "News",
+      "icon": "Folder",
+      "description": "新闻资讯",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1758711471913_qahh5a8x2",
+          "title": "华尔街见闻",
+          "href": "https://wallstreetcn.com/live/global",
+          "description": "经济类资讯",
+          "icon": "/assets/favicon_1758711454346.png",
+          "enabled": true
+        },
+        {
+          "id": "site_1768666670791_ro6gd5bbh",
+          "title": "Hacker News",
+          "href": "https://news.ycombinator.com/newest",
+          "description": "",
+          "icon": "/assets/favicon_1768666661481.svg",
+          "enabled": true
+        },
+        {
+          "id": "site_1768666922601_aj0b67z64",
+          "title": "Kagi News",
+          "href": "https://news.kagi.com/world/latest",
+          "description": "World: Update: Trump floats tariffs as Congress reassures Denmark • Iran protests subside after crackdown as execution fears rise • Trump names seven-member Gaza ‘Board of Peace’",
+          "icon": "/assets/favicon_1768666918402.ico",
+          "enabled": true
+        },
+        {
+          "id": "site_1768667828063_5kmuzi6l9",
+          "title": "Zeli - 中文读Hacker News",
+          "href": "https://zeli.app/zh",
+          "description": "Zeli提供了Hacker News和HuggingFace每日AI论文的中文版，实时翻译并生成摘要，旨在帮你快速挑选感兴趣的文章来读。",
+          "icon": "/assets/favicon_1768667814645.ico",
+          "enabled": true
+        },
+        {
+          "id": "item-1768707912433",
+          "enabled": true,
+          "title": "Folo",
+          "href": "https://app.folo.is/timeline/articles/all/pending",
+          "description": "Folo organizes content into one timeline, keeping you updated on what matters, noise-free. AI reader with translation, summary, and dynamic content support. Available on iOS, Android, macOS, Windows, and Linux.",
+          "icon": "/assets/favicon_1768707899358.ico"
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI工具",
       "icon": "Brain",
@@ -905,56 +955,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1758711374125",
-      "title": "News",
-      "icon": "Folder",
-      "description": "新闻资讯",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1758711471913_qahh5a8x2",
-          "title": "华尔街见闻",
-          "href": "https://wallstreetcn.com/live/global",
-          "description": "经济类资讯",
-          "icon": "/assets/favicon_1758711454346.png",
-          "enabled": true
-        },
-        {
-          "id": "site_1768666670791_ro6gd5bbh",
-          "title": "Hacker News",
-          "href": "https://news.ycombinator.com/newest",
-          "description": "",
-          "icon": "/assets/favicon_1768666661481.svg",
-          "enabled": true
-        },
-        {
-          "id": "site_1768666922601_aj0b67z64",
-          "title": "Kagi News",
-          "href": "https://news.kagi.com/world/latest",
-          "description": "World: Update: Trump floats tariffs as Congress reassures Denmark • Iran protests subside after crackdown as execution fears rise • Trump names seven-member Gaza ‘Board of Peace’",
-          "icon": "/assets/favicon_1768666918402.ico",
-          "enabled": true
-        },
-        {
-          "id": "site_1768667828063_5kmuzi6l9",
-          "title": "Zeli - 中文读Hacker News",
-          "href": "https://zeli.app/zh",
-          "description": "Zeli提供了Hacker News和HuggingFace每日AI论文的中文版，实时翻译并生成摘要，旨在帮你快速挑选感兴趣的文章来读。",
-          "icon": "/assets/favicon_1768667814645.ico",
-          "enabled": true
-        },
-        {
-          "id": "item-1768707912433",
-          "enabled": true,
-          "title": "Folo",
-          "href": "https://app.folo.is/timeline/articles/all/pending",
-          "description": "Folo organizes content into one timeline, keeping you updated on what matters, noise-free. AI reader with translation, summary, and dynamic content support. Available on iOS, Android, macOS, Windows, and Linux.",
-          "icon": "/assets/favicon_1768707899358.ico"
-        }
-      ],
-      "subCategories": []
     },
     {
       "id": "1768659607376",
